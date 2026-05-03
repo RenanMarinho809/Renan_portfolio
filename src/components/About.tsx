@@ -11,7 +11,7 @@ function About() {
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
         >
-          <img src="/IMG/20br.png" alt="Bruno Oliveira" />
+          <img src="/IMG/20br.png" alt="Renan Marinho" />
         </motion.div>
         <motion.div
           className="about-text"
@@ -20,19 +20,22 @@ function About() {
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
         >
-          <h2>Sobre</h2>
+          <h2>Sobre Mim</h2>
           <p>
-            Sou programador Full Stack apaixonado por tecnologia e
-            desenvolvimento de soluções escaláveis e eficientes. Minha principal
-            stack é baseada em JavaScript e TypeScript, com forte experiência em
-            desenvolvimento de aplicações modernas e performáticas.
+            Sou desenvolvedor frontend com foco em React e Next.js, criando aplicações modernas, responsivas e bem estruturadas. Tenho experiência no desenvolvimento de interfaces dinâmicas, integração com APIs e construção de fluxos completos de autenticação e gerenciamento de estado.
+          </p>
+          <p style={{ marginTop: "1.5rem" }}>
+            Busco constantemente evoluir minhas habilidades técnicas e construir projetos que simulem cenários reais de mercado, aplicando boas práticas de código, organização e performance.
+          </p>
+          <p style={{ marginTop: "1.5rem" }}>
+            Atualmente estou em busca de uma oportunidade como Desenvolvedor Frontend Júnior, onde eu possa contribuir com o time e continuar evoluindo profissionalmente.
           </p>
           <a
             href="/doc/Renan_curriculo.pdf"
             download="Renan_curriculo.pdf"
             className="btn-cv"
           >
-            Baixar Curriculo
+            Baixar Currículo
           </a>
         </motion.div>
       </div>
