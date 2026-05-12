@@ -9,11 +9,13 @@ const techs: Tech[] = [
   { name: "Github", imgSrc: "/IMG/techs/github.png" },
   { name: "TypeScript", imgSrc: "/IMG/techs/typescript.png" },
   { name: "Vite", imgSrc: "/IMG/techs/vite.png" },
-  { name: "Firebase", imgSrc: "/IMG/techs/firebase.png" },
   { name: "PostgreSQL", imgSrc: "/IMG/techs/postgresql.png" },
   { name: "Node.js", imgSrc: "/IMG/techs/node.png" },
   { name: "MongoDB", imgSrc: "/IMG/techs/mongodb.png" },
   { name: "Express", imgSrc: "/IMG/techs/express.png" },
+  { name: "Bootstrap", imgSrc: "/IMG/techs/bootstrap.png" },
+  { name: "Tailwind CSS", imgSrc: "/IMG/techs/tailwindcss.png" },
+  { name: "Sass", imgSrc: "/IMG/techs/sass.png" },
 ];
 
 function Techs() {

@@ -468,8 +468,11 @@ body {
 }
 
 .card-techs img {
-  max-width: 60px;
-  margin-bottom: 0.5rem;
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 0.5rem;
   transition: transform 0.25s ease;
 }
 

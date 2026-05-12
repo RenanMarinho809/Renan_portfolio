@@ -21,22 +21,22 @@ const allProjects: Project[] = [
     image: "/IMG/primeflix.png",
   },
   {
-    title: "WebCarros",
+    title: "AutoFinder",
     description:
-      "Plataforma de anúncios de carros com autenticação, CRUD completo e banco de dados em tempo real. Desenvolvido com React, Tailwind CSS e Firebase, garantindo performance e segurança.",
-    tags: ["React", "Tailwind CSS", "Firebase"],
-    deployLink: "https://web-carros-eta.vercel.app/",
-    repoLink: "https://github.com/RenanMarinho809/web-carros",
-    image: "/IMG/web-carros.png",
+      "Aplicação web para pesquisa e visualização de veículos, com foco em usabilidade e organização de dados.",
+    tags: ["React.js"," TypeScript", "CSS"],
+    deployLink: "https://auto-finder-jj84ziloy-renanmarinho809s-projects.vercel.app",
+    repoLink: "https://github.com/RenanMarinho809/AutoFinder",
+    image: "/IMG/Autofinder.png",
   },
   {
-    title: "Watch Store",
+    title: "AI Study Planner ",
     description:
-      "E-commerce completo com Next.js, Tailwind CSS e MongoDB. Inclui SSR/SSG, carrinho de compras e interface otimizada para experiência do usuário.",
+      "Aplicação web para geração de planos de estudo personalizados com base em inteligência artificial.",
     tags: ["Next.js", "Tailwind CSS", "MongoDB"],
-    deployLink: "https://watch-store-kappa.vercel.app/",
-    repoLink: "https://github.com/RenanMarinho809/watch-store",
-    image: "/IMG/watchstore.png",
+    deployLink: "https://ai-study-planner-alpha-one.vercel.app",
+    repoLink: "https://github.com/RenanMarinho809/ai-study-planner",
+    image: "/IMG/Aistudyplanner.png",
   },
   {
     title: "Tarefas Plus",
@@ -46,6 +46,24 @@ const allProjects: Project[] = [
     deployLink: "https://tarefas-plus-liard.vercel.app/",
     repoLink: "https://github.com/RenanMarinho809/tarefas_plus",
     image: "/IMG/tarefasplus.png",
+  },
+   {
+    title: "Bikcraft",
+    description:
+      "Bikcraft é uma landing page moderna e elegante para uma empresa de bicicletas personalizadas. O projeto foi desenvolvido utilizando HTML5, CSS3 e SASS (SCSS), seguindo as melhores práticas de desenvolvimento web com design responsivo e animações suaves.",
+    tags: ["HTML", "CSS", "SASS"],
+    deployLink: "https://bikcraft-rust.vercel.app",
+    repoLink: "https://github.com/RenanMarinho809/bikcraft",
+    image: "/IMG/bikecraft.png",
+  },
+   {
+    title: "Caravan",
+    description:
+      "O Projeto Caravan é uma aplicação web desenvolvida com HTML, CSS e Bootstrap, criada para facilitar o gerenciamento de reservas de caravanas em parques de campismo. O foco do projeto é oferecer uma experiência simples, intuitiva e eficiente para os usuários.",
+    tags: ["HTML", "CSS", "Bootstrap"],
+    deployLink: "https://caravan-boostrap.vercel.app",
+    repoLink: "https://github.com/RenanMarinho809/Caravan_Boostrap",
+    image: "/IMG/Caravan.png",
   },
 ];
 
