@@ -31,8 +31,8 @@ function About() {
             Atualmente estou em busca de uma oportunidade como Desenvolvedor Frontend Júnior, onde eu possa contribuir com o time e continuar evoluindo profissionalmente.
           </p>
           <a
-            href="/doc/Renan_curriculo.pdf"
-            download="Renan_curriculo.pdf"
+            href="/doc/Curriculo dev Frontendjr-pt.pdf"
+            download="Curriculo dev Frontendjr-pt.pdf"
             className="btn-cv"
           >
             Baixar Currículo
