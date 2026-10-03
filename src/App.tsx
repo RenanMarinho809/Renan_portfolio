@@ -39,13 +39,13 @@ const allProjects: Project[] = [
     image: "/IMG/Aistudyplanner.png",
   },
   {
-    title: "Tarefas Plus",
+    title: "PlanejAI",
     description:
-      "Aplicação de gerenciamento de tarefas com autenticação via Google, banco de dados em tempo real e interface intuitiva. Desenvolvido com Next.js, Firebase e NextAuth.",
-    tags: ["Next.js", "Firebase", "NextAuth"],
+      "O PlanejAI é uma aplicação web de planejamento financeiro pessoal. A pessoa informa sua renda mensal, seus custos fixos, suas dívidas e uma meta financeira.",
+    tags: ["React.js", "Tailwindcss", "Gemini"],
     deployLink: "https://tarefas-plus-liard.vercel.app/",
-    repoLink: "https://github.com/RenanMarinho809/tarefas_plus",
-    image: "/IMG/tarefasplus.png",
+    repoLink: "https://planejai-theta.vercel.app",
+    image: "/IMG/planejai.png",
   },
    {
     title: "Bikcraft",
