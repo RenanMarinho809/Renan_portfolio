@@ -43,8 +43,8 @@ const allProjects: Project[] = [
     description:
       "O PlanejAI é uma aplicação web de planejamento financeiro pessoal. A pessoa informa sua renda mensal, seus custos fixos, suas dívidas e uma meta financeira.",
     tags: ["React.js", "Tailwindcss", "Gemini"],
-    deployLink: "https://tarefas-plus-liard.vercel.app/",
-    repoLink: "https://planejai-theta.vercel.app",
+    deployLink: "https://planejai-theta.vercel.app",
+    repoLink: "https://github.com/RenanMarinho809/planejai",
     image: "/IMG/planejai.png",
   },
    {
