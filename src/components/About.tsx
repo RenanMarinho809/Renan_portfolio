@@ -22,13 +22,13 @@ function About() {
         >
           <h2>Sobre Mim</h2>
           <p>
-            Sou desenvolvedor frontend com foco em React e Next.js, criando aplicações modernas, responsivas e bem estruturadas. Tenho experiência no desenvolvimento de interfaces dinâmicas, integração com APIs e construção de fluxos completos de autenticação e gerenciamento de estado.
+            Sou desenvolvedor frontend com foco em React e Next.js, especializado na criação de interfaces modernas, responsivas e bem estruturadas. Tenho experiência em desenvolvimento de experiências digitais dinâmicas, integração com APIs e implementação de fluxos de autenticação e gerenciamento de estado.
           </p>
           <p style={{ marginTop: "1.5rem" }}>
-            Busco constantemente evoluir minhas habilidades técnicas e construir projetos que simulem cenários reais de mercado, aplicando boas práticas de código, organização e performance.
+            Busco constantemente aprimorar minhas habilidades técnicas e entregar soluções alinhadas às necessidades do negócio, com atenção a qualidade de código, organização e performance.
           </p>
           <p style={{ marginTop: "1.5rem" }}>
-            Atualmente estou em busca de uma oportunidade como Desenvolvedor Frontend Júnior, onde eu possa contribuir com o time e continuar evoluindo profissionalmente.
+            Atualmente estou em busca de uma oportunidade como Desenvolvedor Frontend, para contribuir com times de tecnologia e continuar evoluindo em projetos desafiadores e de alto impacto.
           </p>
           <a
             href="/doc/curriculo.pdf"
